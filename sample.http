@@ -1,0 +1,5 @@
+POST https://56timume5e.execute-api.us-east-1.amazonaws.com/dev/image_generation
+
+{
+  "prompt": "A beautiful sunset over a calm ocean with a clear sky and a few clouds."
+}
