@@ -1,0 +1,8 @@
+.terraform.*
+.terraform
+.lambda_functions
+*.zip
+terraform.tfstate
+terraform.tfstate.*
+terraform.tfvars
+.env
